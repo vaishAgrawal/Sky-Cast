@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sky-Cast/static/css/main.75b35283.css",
+    "main.js": "/Sky-Cast/static/js/main.8f739b40.js",
+    "static/js/453.500c4da1.chunk.js": "/Sky-Cast/static/js/453.500c4da1.chunk.js",
+    "index.html": "/Sky-Cast/index.html",
+    "main.75b35283.css.map": "/Sky-Cast/static/css/main.75b35283.css.map",
+    "main.8f739b40.js.map": "/Sky-Cast/static/js/main.8f739b40.js.map",
+    "453.500c4da1.chunk.js.map": "/Sky-Cast/static/js/453.500c4da1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75b35283.css",
+    "static/js/main.8f739b40.js"
+  ]
+}
